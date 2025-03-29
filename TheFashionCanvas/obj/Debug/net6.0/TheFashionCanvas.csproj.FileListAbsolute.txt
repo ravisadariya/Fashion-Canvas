@@ -1,0 +1,207 @@
+C:\Users\satvir\Downloads\GroupProject\TheFashionCanvas\TheFashionCanvas\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\satvir\Downloads\GroupProject\TheFashionCanvas\TheFashionCanvas\bin\Debug\net6.0\appsettings.json
+C:\Users\satvir\Downloads\GroupProject\TheFashionCanvas\TheFashionCanvas\bin\Debug\net6.0\TheFashionCanvas.staticwebassets.runtime.json
+C:\Users\satvir\Downloads\GroupProject\TheFashionCanvas\TheFashionCanvas\bin\Debug\net6.0\TheFashionCanvas.exe
+C:\Users\satvir\Downloads\GroupProject\TheFashionCanvas\TheFashionCanvas\bin\Debug\net6.0\TheFashionCanvas.deps.json
+C:\Users\satvir\Downloads\GroupProject\TheFashionCanvas\TheFashionCanvas\bin\Debug\net6.0\TheFashionCanvas.runtimeconfig.json
+C:\Users\satvir\Downloads\GroupProject\TheFashionCanvas\TheFashionCanvas\bin\Debug\net6.0\TheFashionCanvas.dll
+C:\Users\satvir\Downloads\GroupProject\TheFashionCanvas\TheFashionCanvas\bin\Debug\net6.0\TheFashionCanvas.pdb
+C:\Users\satvir\Downloads\GroupProject\TheFashionCanvas\TheFashionCanvas\bin\Debug\net6.0\Humanizer.dll
+C:\Users\satvir\Downloads\GroupProject\TheFashionCanvas\TheFashionCanvas\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\satvir\Downloads\GroupProject\TheFashionCanvas\TheFashionCanvas\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\satvir\Downloads\GroupProject\TheFashionCanvas\TheFashionCanvas\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\satvir\Downloads\GroupProject\TheFashionCanvas\TheFashionCanvas\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\satvir\Downloads\GroupProject\TheFashionCanvas\TheFashionCanvas\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\satvir\Downloads\GroupProject\TheFashionCanvas\TheFashionCanvas\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\satvir\Downloads\GroupProject\TheFashionCanvas\TheFashionCanvas\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\satvir\Downloads\GroupProject\TheFashionCanvas\TheFashionCanvas\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\satvir\Downloads\GroupProject\TheFashionCanvas\TheFashionCanvas\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\satvir\Downloads\GroupProject\TheFashionCanvas\TheFashionCanvas\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\satvir\Downloads\GroupProject\TheFashionCanvas\TheFashionCanvas\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\satvir\Downloads\GroupProject\TheFashionCanvas\TheFashionCanvas\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\satvir\Downloads\GroupProject\TheFashionCanvas\TheFashionCanvas\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\satvir\Downloads\GroupProject\TheFashionCanvas\TheFashionCanvas\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\satvir\Downloads\GroupProject\TheFashionCanvas\TheFashionCanvas\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\satvir\Downloads\GroupProject\TheFashionCanvas\TheFashionCanvas\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\satvir\Downloads\GroupProject\TheFashionCanvas\TheFashionCanvas\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\satvir\Downloads\GroupProject\TheFashionCanvas\TheFashionCanvas\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\satvir\Downloads\GroupProject\TheFashionCanvas\TheFashionCanvas\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\satvir\Downloads\GroupProject\TheFashionCanvas\TheFashionCanvas\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\satvir\Downloads\GroupProject\TheFashionCanvas\TheFashionCanvas\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\satvir\Downloads\GroupProject\TheFashionCanvas\TheFashionCanvas\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\satvir\Downloads\GroupProject\TheFashionCanvas\TheFashionCanvas\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\satvir\Downloads\GroupProject\TheFashionCanvas\TheFashionCanvas\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\satvir\Downloads\GroupProject\TheFashionCanvas\TheFashionCanvas\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\satvir\Downloads\GroupProject\TheFashionCanvas\TheFashionCanvas\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\satvir\Downloads\GroupProject\TheFashionCanvas\TheFashionCanvas\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\satvir\Downloads\GroupProject\TheFashionCanvas\TheFashionCanvas\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\satvir\Downloads\GroupProject\TheFashionCanvas\TheFashionCanvas\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\satvir\Downloads\GroupProject\TheFashionCanvas\TheFashionCanvas\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\satvir\Downloads\GroupProject\TheFashionCanvas\TheFashionCanvas\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\satvir\Downloads\GroupProject\TheFashionCanvas\TheFashionCanvas\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\satvir\Downloads\GroupProject\TheFashionCanvas\TheFashionCanvas\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\satvir\Downloads\GroupProject\TheFashionCanvas\TheFashionCanvas\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\satvir\Downloads\GroupProject\TheFashionCanvas\TheFashionCanvas\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\satvir\Downloads\GroupProject\TheFashionCanvas\TheFashionCanvas\obj\Debug\net6.0\TheFashionCanvas.csproj.AssemblyReference.cache
+C:\Users\satvir\Downloads\GroupProject\TheFashionCanvas\TheFashionCanvas\obj\Debug\net6.0\TheFashionCanvas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\satvir\Downloads\GroupProject\TheFashionCanvas\TheFashionCanvas\obj\Debug\net6.0\TheFashionCanvas.AssemblyInfoInputs.cache
+C:\Users\satvir\Downloads\GroupProject\TheFashionCanvas\TheFashionCanvas\obj\Debug\net6.0\TheFashionCanvas.AssemblyInfo.cs
+C:\Users\satvir\Downloads\GroupProject\TheFashionCanvas\TheFashionCanvas\obj\Debug\net6.0\TheFashionCanvas.csproj.CoreCompileInputs.cache
+C:\Users\satvir\Downloads\GroupProject\TheFashionCanvas\TheFashionCanvas\obj\Debug\net6.0\TheFashionCanvas.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\satvir\Downloads\GroupProject\TheFashionCanvas\TheFashionCanvas\obj\Debug\net6.0\TheFashionCanvas.RazorAssemblyInfo.cache
+C:\Users\satvir\Downloads\GroupProject\TheFashionCanvas\TheFashionCanvas\obj\Debug\net6.0\TheFashionCanvas.RazorAssemblyInfo.cs
+C:\Users\satvir\Downloads\GroupProject\TheFashionCanvas\TheFashionCanvas\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\satvir\Downloads\GroupProject\TheFashionCanvas\TheFashionCanvas\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\satvir\Downloads\GroupProject\TheFashionCanvas\TheFashionCanvas\obj\Debug\net6.0\staticwebassets\msbuild.TheFashionCanvas.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\satvir\Downloads\GroupProject\TheFashionCanvas\TheFashionCanvas\obj\Debug\net6.0\staticwebassets\msbuild.build.TheFashionCanvas.props
+C:\Users\satvir\Downloads\GroupProject\TheFashionCanvas\TheFashionCanvas\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TheFashionCanvas.props
+C:\Users\satvir\Downloads\GroupProject\TheFashionCanvas\TheFashionCanvas\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TheFashionCanvas.props
+C:\Users\satvir\Downloads\GroupProject\TheFashionCanvas\TheFashionCanvas\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\satvir\Downloads\GroupProject\TheFashionCanvas\TheFashionCanvas\obj\Debug\net6.0\scopedcss\Areas\Admin\Views\Shared\_AdminLayout.cshtml.rz.scp.css
+C:\Users\satvir\Downloads\GroupProject\TheFashionCanvas\TheFashionCanvas\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\satvir\Downloads\GroupProject\TheFashionCanvas\TheFashionCanvas\obj\Debug\net6.0\scopedcss\bundle\TheFashionCanvas.styles.css
+C:\Users\satvir\Downloads\GroupProject\TheFashionCanvas\TheFashionCanvas\obj\Debug\net6.0\scopedcss\projectbundle\TheFashionCanvas.bundle.scp.css
+C:\Users\satvir\Downloads\GroupProject\TheFashionCanvas\TheFashionCanvas\obj\Debug\net6.0\TheFashionCanvas.csproj.CopyComplete
+C:\Users\satvir\Downloads\GroupProject\TheFashionCanvas\TheFashionCanvas\obj\Debug\net6.0\TheFashionCanvas.dll
+C:\Users\satvir\Downloads\GroupProject\TheFashionCanvas\TheFashionCanvas\obj\Debug\net6.0\refint\TheFashionCanvas.dll
+C:\Users\satvir\Downloads\GroupProject\TheFashionCanvas\TheFashionCanvas\obj\Debug\net6.0\TheFashionCanvas.pdb
+C:\Users\satvir\Downloads\GroupProject\TheFashionCanvas\TheFashionCanvas\obj\Debug\net6.0\TheFashionCanvas.genruntimeconfig.cache
+C:\Users\satvir\Downloads\GroupProject\TheFashionCanvas\TheFashionCanvas\obj\Debug\net6.0\ref\TheFashionCanvas.dll
+E:\Study\Study\SEM 4\Advance .NET\Group Project\GroupProject\TheFashionCanvas\TheFashionCanvas\bin\Debug\net6.0\appsettings.Development.json
+E:\Study\Study\SEM 4\Advance .NET\Group Project\GroupProject\TheFashionCanvas\TheFashionCanvas\bin\Debug\net6.0\appsettings.json
+E:\Study\Study\SEM 4\Advance .NET\Group Project\GroupProject\TheFashionCanvas\TheFashionCanvas\bin\Debug\net6.0\TheFashionCanvas.staticwebassets.runtime.json
+E:\Study\Study\SEM 4\Advance .NET\Group Project\GroupProject\TheFashionCanvas\TheFashionCanvas\bin\Debug\net6.0\TheFashionCanvas.exe
+E:\Study\Study\SEM 4\Advance .NET\Group Project\GroupProject\TheFashionCanvas\TheFashionCanvas\bin\Debug\net6.0\TheFashionCanvas.deps.json
+E:\Study\Study\SEM 4\Advance .NET\Group Project\GroupProject\TheFashionCanvas\TheFashionCanvas\bin\Debug\net6.0\TheFashionCanvas.runtimeconfig.json
+E:\Study\Study\SEM 4\Advance .NET\Group Project\GroupProject\TheFashionCanvas\TheFashionCanvas\bin\Debug\net6.0\TheFashionCanvas.dll
+E:\Study\Study\SEM 4\Advance .NET\Group Project\GroupProject\TheFashionCanvas\TheFashionCanvas\bin\Debug\net6.0\TheFashionCanvas.pdb
+E:\Study\Study\SEM 4\Advance .NET\Group Project\GroupProject\TheFashionCanvas\TheFashionCanvas\bin\Debug\net6.0\Humanizer.dll
+E:\Study\Study\SEM 4\Advance .NET\Group Project\GroupProject\TheFashionCanvas\TheFashionCanvas\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\Study\Study\SEM 4\Advance .NET\Group Project\GroupProject\TheFashionCanvas\TheFashionCanvas\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Study\Study\SEM 4\Advance .NET\Group Project\GroupProject\TheFashionCanvas\TheFashionCanvas\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Study\Study\SEM 4\Advance .NET\Group Project\GroupProject\TheFashionCanvas\TheFashionCanvas\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Study\Study\SEM 4\Advance .NET\Group Project\GroupProject\TheFashionCanvas\TheFashionCanvas\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Study\Study\SEM 4\Advance .NET\Group Project\GroupProject\TheFashionCanvas\TheFashionCanvas\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Study\Study\SEM 4\Advance .NET\Group Project\GroupProject\TheFashionCanvas\TheFashionCanvas\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Study\Study\SEM 4\Advance .NET\Group Project\GroupProject\TheFashionCanvas\TheFashionCanvas\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Study\Study\SEM 4\Advance .NET\Group Project\GroupProject\TheFashionCanvas\TheFashionCanvas\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\Study\Study\SEM 4\Advance .NET\Group Project\GroupProject\TheFashionCanvas\TheFashionCanvas\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Study\Study\SEM 4\Advance .NET\Group Project\GroupProject\TheFashionCanvas\TheFashionCanvas\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Study\Study\SEM 4\Advance .NET\Group Project\GroupProject\TheFashionCanvas\TheFashionCanvas\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Study\Study\SEM 4\Advance .NET\Group Project\GroupProject\TheFashionCanvas\TheFashionCanvas\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Study\Study\SEM 4\Advance .NET\Group Project\GroupProject\TheFashionCanvas\TheFashionCanvas\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Study\Study\SEM 4\Advance .NET\Group Project\GroupProject\TheFashionCanvas\TheFashionCanvas\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Study\Study\SEM 4\Advance .NET\Group Project\GroupProject\TheFashionCanvas\TheFashionCanvas\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Study\Study\SEM 4\Advance .NET\Group Project\GroupProject\TheFashionCanvas\TheFashionCanvas\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+E:\Study\Study\SEM 4\Advance .NET\Group Project\GroupProject\TheFashionCanvas\TheFashionCanvas\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Study\Study\SEM 4\Advance .NET\Group Project\GroupProject\TheFashionCanvas\TheFashionCanvas\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Study\Study\SEM 4\Advance .NET\Group Project\GroupProject\TheFashionCanvas\TheFashionCanvas\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\Study\Study\SEM 4\Advance .NET\Group Project\GroupProject\TheFashionCanvas\TheFashionCanvas\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Study\Study\SEM 4\Advance .NET\Group Project\GroupProject\TheFashionCanvas\TheFashionCanvas\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Study\Study\SEM 4\Advance .NET\Group Project\GroupProject\TheFashionCanvas\TheFashionCanvas\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Study\Study\SEM 4\Advance .NET\Group Project\GroupProject\TheFashionCanvas\TheFashionCanvas\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Study\Study\SEM 4\Advance .NET\Group Project\GroupProject\TheFashionCanvas\TheFashionCanvas\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Study\Study\SEM 4\Advance .NET\Group Project\GroupProject\TheFashionCanvas\TheFashionCanvas\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Study\Study\SEM 4\Advance .NET\Group Project\GroupProject\TheFashionCanvas\TheFashionCanvas\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Study\Study\SEM 4\Advance .NET\Group Project\GroupProject\TheFashionCanvas\TheFashionCanvas\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Study\Study\SEM 4\Advance .NET\Group Project\GroupProject\TheFashionCanvas\TheFashionCanvas\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Study\Study\SEM 4\Advance .NET\Group Project\GroupProject\TheFashionCanvas\TheFashionCanvas\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Study\Study\SEM 4\Advance .NET\Group Project\GroupProject\TheFashionCanvas\TheFashionCanvas\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Study\Study\SEM 4\Advance .NET\Group Project\GroupProject\TheFashionCanvas\TheFashionCanvas\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Study\Study\SEM 4\Advance .NET\Group Project\GroupProject\TheFashionCanvas\TheFashionCanvas\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Study\Study\SEM 4\Advance .NET\Group Project\GroupProject\TheFashionCanvas\TheFashionCanvas\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Study\Study\SEM 4\Advance .NET\Group Project\GroupProject\TheFashionCanvas\TheFashionCanvas\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Study\Study\SEM 4\Advance .NET\Group Project\GroupProject\TheFashionCanvas\TheFashionCanvas\obj\Debug\net6.0\TheFashionCanvas.csproj.AssemblyReference.cache
+E:\Study\Study\SEM 4\Advance .NET\Group Project\GroupProject\TheFashionCanvas\TheFashionCanvas\obj\Debug\net6.0\TheFashionCanvas.GeneratedMSBuildEditorConfig.editorconfig
+E:\Study\Study\SEM 4\Advance .NET\Group Project\GroupProject\TheFashionCanvas\TheFashionCanvas\obj\Debug\net6.0\TheFashionCanvas.AssemblyInfoInputs.cache
+E:\Study\Study\SEM 4\Advance .NET\Group Project\GroupProject\TheFashionCanvas\TheFashionCanvas\obj\Debug\net6.0\TheFashionCanvas.AssemblyInfo.cs
+E:\Study\Study\SEM 4\Advance .NET\Group Project\GroupProject\TheFashionCanvas\TheFashionCanvas\obj\Debug\net6.0\TheFashionCanvas.csproj.CoreCompileInputs.cache
+E:\Study\Study\SEM 4\Advance .NET\Group Project\GroupProject\TheFashionCanvas\TheFashionCanvas\obj\Debug\net6.0\TheFashionCanvas.MvcApplicationPartsAssemblyInfo.cache
+E:\Study\Study\SEM 4\Advance .NET\Group Project\GroupProject\TheFashionCanvas\TheFashionCanvas\obj\Debug\net6.0\TheFashionCanvas.RazorAssemblyInfo.cache
+E:\Study\Study\SEM 4\Advance .NET\Group Project\GroupProject\TheFashionCanvas\TheFashionCanvas\obj\Debug\net6.0\TheFashionCanvas.RazorAssemblyInfo.cs
+E:\Study\Study\SEM 4\Advance .NET\Group Project\GroupProject\TheFashionCanvas\TheFashionCanvas\obj\Debug\net6.0\staticwebassets.build.json
+E:\Study\Study\SEM 4\Advance .NET\Group Project\GroupProject\TheFashionCanvas\TheFashionCanvas\obj\Debug\net6.0\staticwebassets.development.json
+E:\Study\Study\SEM 4\Advance .NET\Group Project\GroupProject\TheFashionCanvas\TheFashionCanvas\obj\Debug\net6.0\staticwebassets\msbuild.TheFashionCanvas.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Study\Study\SEM 4\Advance .NET\Group Project\GroupProject\TheFashionCanvas\TheFashionCanvas\obj\Debug\net6.0\staticwebassets\msbuild.build.TheFashionCanvas.props
+E:\Study\Study\SEM 4\Advance .NET\Group Project\GroupProject\TheFashionCanvas\TheFashionCanvas\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TheFashionCanvas.props
+E:\Study\Study\SEM 4\Advance .NET\Group Project\GroupProject\TheFashionCanvas\TheFashionCanvas\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TheFashionCanvas.props
+E:\Study\Study\SEM 4\Advance .NET\Group Project\GroupProject\TheFashionCanvas\TheFashionCanvas\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Study\Study\SEM 4\Advance .NET\Group Project\GroupProject\TheFashionCanvas\TheFashionCanvas\obj\Debug\net6.0\scopedcss\Areas\Admin\Views\Shared\_AdminLayout.cshtml.rz.scp.css
+E:\Study\Study\SEM 4\Advance .NET\Group Project\GroupProject\TheFashionCanvas\TheFashionCanvas\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\Study\Study\SEM 4\Advance .NET\Group Project\GroupProject\TheFashionCanvas\TheFashionCanvas\obj\Debug\net6.0\scopedcss\bundle\TheFashionCanvas.styles.css
+E:\Study\Study\SEM 4\Advance .NET\Group Project\GroupProject\TheFashionCanvas\TheFashionCanvas\obj\Debug\net6.0\scopedcss\projectbundle\TheFashionCanvas.bundle.scp.css
+E:\Study\Study\SEM 4\Advance .NET\Group Project\GroupProject\TheFashionCanvas\TheFashionCanvas\obj\Debug\net6.0\TheFashionCanvas.csproj.CopyComplete
+E:\Study\Study\SEM 4\Advance .NET\Group Project\GroupProject\TheFashionCanvas\TheFashionCanvas\obj\Debug\net6.0\TheFashionCanvas.dll
+E:\Study\Study\SEM 4\Advance .NET\Group Project\GroupProject\TheFashionCanvas\TheFashionCanvas\obj\Debug\net6.0\refint\TheFashionCanvas.dll
+E:\Study\Study\SEM 4\Advance .NET\Group Project\GroupProject\TheFashionCanvas\TheFashionCanvas\obj\Debug\net6.0\TheFashionCanvas.pdb
+E:\Study\Study\SEM 4\Advance .NET\Group Project\GroupProject\TheFashionCanvas\TheFashionCanvas\obj\Debug\net6.0\TheFashionCanvas.genruntimeconfig.cache
+E:\Study\Study\SEM 4\Advance .NET\Group Project\GroupProject\TheFashionCanvas\TheFashionCanvas\obj\Debug\net6.0\ref\TheFashionCanvas.dll
+E:\Resume\FIELD RESUME\Projects\TheFashionCanvas\TheFashionCanvas\bin\Debug\net6.0\appsettings.Development.json
+E:\Resume\FIELD RESUME\Projects\TheFashionCanvas\TheFashionCanvas\bin\Debug\net6.0\appsettings.json
+E:\Resume\FIELD RESUME\Projects\TheFashionCanvas\TheFashionCanvas\bin\Debug\net6.0\TheFashionCanvas.staticwebassets.runtime.json
+E:\Resume\FIELD RESUME\Projects\TheFashionCanvas\TheFashionCanvas\bin\Debug\net6.0\TheFashionCanvas.exe
+E:\Resume\FIELD RESUME\Projects\TheFashionCanvas\TheFashionCanvas\bin\Debug\net6.0\TheFashionCanvas.deps.json
+E:\Resume\FIELD RESUME\Projects\TheFashionCanvas\TheFashionCanvas\bin\Debug\net6.0\TheFashionCanvas.runtimeconfig.json
+E:\Resume\FIELD RESUME\Projects\TheFashionCanvas\TheFashionCanvas\bin\Debug\net6.0\TheFashionCanvas.dll
+E:\Resume\FIELD RESUME\Projects\TheFashionCanvas\TheFashionCanvas\bin\Debug\net6.0\TheFashionCanvas.pdb
+E:\Resume\FIELD RESUME\Projects\TheFashionCanvas\TheFashionCanvas\bin\Debug\net6.0\Humanizer.dll
+E:\Resume\FIELD RESUME\Projects\TheFashionCanvas\TheFashionCanvas\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\Resume\FIELD RESUME\Projects\TheFashionCanvas\TheFashionCanvas\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Resume\FIELD RESUME\Projects\TheFashionCanvas\TheFashionCanvas\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Resume\FIELD RESUME\Projects\TheFashionCanvas\TheFashionCanvas\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Resume\FIELD RESUME\Projects\TheFashionCanvas\TheFashionCanvas\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Resume\FIELD RESUME\Projects\TheFashionCanvas\TheFashionCanvas\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Resume\FIELD RESUME\Projects\TheFashionCanvas\TheFashionCanvas\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Resume\FIELD RESUME\Projects\TheFashionCanvas\TheFashionCanvas\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Resume\FIELD RESUME\Projects\TheFashionCanvas\TheFashionCanvas\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\Resume\FIELD RESUME\Projects\TheFashionCanvas\TheFashionCanvas\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Resume\FIELD RESUME\Projects\TheFashionCanvas\TheFashionCanvas\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Resume\FIELD RESUME\Projects\TheFashionCanvas\TheFashionCanvas\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Resume\FIELD RESUME\Projects\TheFashionCanvas\TheFashionCanvas\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Resume\FIELD RESUME\Projects\TheFashionCanvas\TheFashionCanvas\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Resume\FIELD RESUME\Projects\TheFashionCanvas\TheFashionCanvas\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Resume\FIELD RESUME\Projects\TheFashionCanvas\TheFashionCanvas\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Resume\FIELD RESUME\Projects\TheFashionCanvas\TheFashionCanvas\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+E:\Resume\FIELD RESUME\Projects\TheFashionCanvas\TheFashionCanvas\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Resume\FIELD RESUME\Projects\TheFashionCanvas\TheFashionCanvas\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Resume\FIELD RESUME\Projects\TheFashionCanvas\TheFashionCanvas\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\Resume\FIELD RESUME\Projects\TheFashionCanvas\TheFashionCanvas\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Resume\FIELD RESUME\Projects\TheFashionCanvas\TheFashionCanvas\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Resume\FIELD RESUME\Projects\TheFashionCanvas\TheFashionCanvas\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Resume\FIELD RESUME\Projects\TheFashionCanvas\TheFashionCanvas\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Resume\FIELD RESUME\Projects\TheFashionCanvas\TheFashionCanvas\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Resume\FIELD RESUME\Projects\TheFashionCanvas\TheFashionCanvas\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Resume\FIELD RESUME\Projects\TheFashionCanvas\TheFashionCanvas\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Resume\FIELD RESUME\Projects\TheFashionCanvas\TheFashionCanvas\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Resume\FIELD RESUME\Projects\TheFashionCanvas\TheFashionCanvas\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Resume\FIELD RESUME\Projects\TheFashionCanvas\TheFashionCanvas\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Resume\FIELD RESUME\Projects\TheFashionCanvas\TheFashionCanvas\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Resume\FIELD RESUME\Projects\TheFashionCanvas\TheFashionCanvas\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Resume\FIELD RESUME\Projects\TheFashionCanvas\TheFashionCanvas\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Resume\FIELD RESUME\Projects\TheFashionCanvas\TheFashionCanvas\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Resume\FIELD RESUME\Projects\TheFashionCanvas\TheFashionCanvas\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Resume\FIELD RESUME\Projects\TheFashionCanvas\TheFashionCanvas\obj\Debug\net6.0\TheFashionCanvas.csproj.AssemblyReference.cache
+E:\Resume\FIELD RESUME\Projects\TheFashionCanvas\TheFashionCanvas\obj\Debug\net6.0\TheFashionCanvas.GeneratedMSBuildEditorConfig.editorconfig
+E:\Resume\FIELD RESUME\Projects\TheFashionCanvas\TheFashionCanvas\obj\Debug\net6.0\TheFashionCanvas.AssemblyInfoInputs.cache
+E:\Resume\FIELD RESUME\Projects\TheFashionCanvas\TheFashionCanvas\obj\Debug\net6.0\TheFashionCanvas.AssemblyInfo.cs
+E:\Resume\FIELD RESUME\Projects\TheFashionCanvas\TheFashionCanvas\obj\Debug\net6.0\TheFashionCanvas.csproj.CoreCompileInputs.cache
+E:\Resume\FIELD RESUME\Projects\TheFashionCanvas\TheFashionCanvas\obj\Debug\net6.0\TheFashionCanvas.MvcApplicationPartsAssemblyInfo.cache
+E:\Resume\FIELD RESUME\Projects\TheFashionCanvas\TheFashionCanvas\obj\Debug\net6.0\TheFashionCanvas.RazorAssemblyInfo.cache
+E:\Resume\FIELD RESUME\Projects\TheFashionCanvas\TheFashionCanvas\obj\Debug\net6.0\TheFashionCanvas.RazorAssemblyInfo.cs
+E:\Resume\FIELD RESUME\Projects\TheFashionCanvas\TheFashionCanvas\obj\Debug\net6.0\staticwebassets.build.json
+E:\Resume\FIELD RESUME\Projects\TheFashionCanvas\TheFashionCanvas\obj\Debug\net6.0\staticwebassets.development.json
+E:\Resume\FIELD RESUME\Projects\TheFashionCanvas\TheFashionCanvas\obj\Debug\net6.0\staticwebassets\msbuild.TheFashionCanvas.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Resume\FIELD RESUME\Projects\TheFashionCanvas\TheFashionCanvas\obj\Debug\net6.0\staticwebassets\msbuild.build.TheFashionCanvas.props
+E:\Resume\FIELD RESUME\Projects\TheFashionCanvas\TheFashionCanvas\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TheFashionCanvas.props
+E:\Resume\FIELD RESUME\Projects\TheFashionCanvas\TheFashionCanvas\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TheFashionCanvas.props
+E:\Resume\FIELD RESUME\Projects\TheFashionCanvas\TheFashionCanvas\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Resume\FIELD RESUME\Projects\TheFashionCanvas\TheFashionCanvas\obj\Debug\net6.0\scopedcss\Areas\Admin\Views\Shared\_AdminLayout.cshtml.rz.scp.css
+E:\Resume\FIELD RESUME\Projects\TheFashionCanvas\TheFashionCanvas\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\Resume\FIELD RESUME\Projects\TheFashionCanvas\TheFashionCanvas\obj\Debug\net6.0\scopedcss\bundle\TheFashionCanvas.styles.css
+E:\Resume\FIELD RESUME\Projects\TheFashionCanvas\TheFashionCanvas\obj\Debug\net6.0\scopedcss\projectbundle\TheFashionCanvas.bundle.scp.css
+E:\Resume\FIELD RESUME\Projects\TheFashionCanvas\TheFashionCanvas\obj\Debug\net6.0\TheFashionCanvas.csproj.CopyComplete
+E:\Resume\FIELD RESUME\Projects\TheFashionCanvas\TheFashionCanvas\obj\Debug\net6.0\TheFashionCanvas.dll
+E:\Resume\FIELD RESUME\Projects\TheFashionCanvas\TheFashionCanvas\obj\Debug\net6.0\refint\TheFashionCanvas.dll
+E:\Resume\FIELD RESUME\Projects\TheFashionCanvas\TheFashionCanvas\obj\Debug\net6.0\TheFashionCanvas.pdb
+E:\Resume\FIELD RESUME\Projects\TheFashionCanvas\TheFashionCanvas\obj\Debug\net6.0\TheFashionCanvas.genruntimeconfig.cache
+E:\Resume\FIELD RESUME\Projects\TheFashionCanvas\TheFashionCanvas\obj\Debug\net6.0\ref\TheFashionCanvas.dll

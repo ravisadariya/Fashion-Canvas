@@ -1,0 +1,79 @@
+﻿/* order-confirmation-styles.css */
+
+.container {
+    max-width: 900px;
+}
+
+.card-title {
+    font-size: 1.75rem;
+    margin-bottom: 1rem;
+}
+
+.card {
+    border-radius: 10px;
+}
+
+.card-body {
+    background-color: #ffffff;
+    border-radius: 10px;
+}
+
+.table-hover tbody tr:hover {
+    background-color: #f8f9fa;
+}
+
+.btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+}
+
+    .btn-primary:hover {
+        background-color: #0056b3;
+        border-color: #0056b3;
+    }
+
+.btn-secondary {
+    background-color: #6c757d;
+    border-color: #6c757d;
+}
+
+    .btn-secondary:hover {
+        background-color: #5a6268;
+        border-color: #545b62;
+    }
+
+.text-primary {
+    color: #007bff !important;
+}
+
+.toast-container {
+    z-index: 1050;
+}
+
+.toast {
+    animation: fadeIn 0.5s, fadeOut 0.5s 2.5s;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+@keyframes fadeOut {
+    from {
+        opacity: 1;
+        transform: translateY(0);
+    }
+
+    to {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+}

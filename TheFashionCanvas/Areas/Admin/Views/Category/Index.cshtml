@@ -1,0 +1,64 @@
+﻿@model IEnumerable<TheFashionCanvas.Models.Category>
+
+@{
+    ViewData["Title"] = "Categories";
+}
+
+@if (TempData["SuccessMessage"] != null)
+{
+    <div class="toast-container position-fixed top-0 end-0 p-3" id="toastContainer">
+        <div class="toast align-items-center text-white bg-success border-0" role="alert" aria-live="assertive" aria-atomic="true">
+            <div class="d-flex">
+                <div class="toast-body">
+                    @TempData["SuccessMessage"]
+                </div>
+                <button type="button" class="btn-close btn-close-white me-2 m-auto" data-bs-dismiss="toast" aria-label="Close"></button>
+            </div>
+        </div>
+    </div>
+}
+
+<div class="container mt-4">
+    <h2 class="mb-4 text-center text-primary"><i class="bi bi-list"></i> @ViewData["Title"]</h2>
+    <div class="d-flex justify-content-end mb-3">
+        <a asp-area="Admin" asp-controller="Category" asp-action="Create" class="btn btn-primary">
+            <i class="bi bi-plus-circle"></i> Create New
+        </a>
+    </div>
+    <table class="table table-hover">
+        <thead>
+            <tr>
+                <th>@Html.DisplayNameFor(model => model.Name)</th>
+                <th class="text-end">Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@Html.DisplayFor(modelItem => item.Name)</td>
+                    <td class="text-end">
+                        <a asp-area="Admin" asp-controller="Category" asp-action="Edit" asp-route-id="@item.CategoryId" class="btn btn-primary btn-sm">
+                            <i class="bi bi-pencil"></i> Edit
+                        </a>
+                        <a asp-area="Admin" asp-controller="Category" asp-action="Delete" asp-route-id="@item.CategoryId" class="btn btn-danger btn-sm">
+                            <i class="bi bi-trash"></i> Delete
+                        </a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+@section Scripts {
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            var toastElList = [].slice.call(document.querySelectorAll('.toast'))
+            var toastList = toastElList.map(function (toastEl) {
+                return new bootstrap.Toast(toastEl, { delay: 5000 });
+            });
+            toastList.forEach(toast => toast.show());
+        });
+    </script>
+}

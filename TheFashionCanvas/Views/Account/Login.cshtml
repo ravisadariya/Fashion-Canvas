@@ -1,0 +1,62 @@
+﻿@model TheFashionCanvas.ViewModels.LoginViewModel
+
+@{
+    ViewData["Title"] = "Login";
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="~/css/Login.css" />
+</head>
+<body>
+    <div class="container sa mt-5">
+        <h2 class="mb-4 text-center text-primary"><i class="bi bi-box-arrow-in-right"></i> @ViewData["Title"]</h2>
+
+        @if (TempData["SuccessMessage"] != null)
+        {
+            <div class="toast-container position-fixed top-0 end-0 p-3" id="toastContainer">
+                <div class="toast align-items-center text-white bg-success border-0" role="alert" aria-live="assertive" aria-atomic="true">
+                    <div class="d-flex">
+                        <div class="toast-body">
+                            @TempData["SuccessMessage"]
+                        </div>
+                        <button type="button" class="btn-close btn-close-white me-2 m-auto" data-bs-dismiss="toast" aria-label="Close"></button>
+                    </div>
+                </div>
+            </div>
+        }
+        <form asp-action="Login" method="post">
+            <div class="mb-3">
+                <label asp-for="Username" class="form-label"></label>
+                <div class="input-group">
+                    <span class="input-group-text bg-light"><i class="bi bi-person"></i></span>
+                    <input asp-for="Username" class="form-control" />
+                </div>
+                <span asp-validation-for="Username" class="text-danger"></span>
+            </div>
+            <div class="mb-3">
+                <label asp-for="Password" class="form-label"></label>
+                <div class="input-group">
+                    <span class="input-group-text bg-light"><i class="bi bi-lock"></i></span>
+                    <input asp-for="Password" type="password" class="form-control" />
+                </div>
+                <span asp-validation-for="Password" class="text-danger"></span>
+            </div>
+            <button type="submit" class="btn btn-primary btn-lg btn-block"><i class="bi bi-box-arrow-in-right"></i> Login</button>
+        </form>
+    </div>
+
+    @section Scripts {
+        <partial name="_ValidationScriptsPartial" />
+        <script>
+            document.addEventListener('DOMContentLoaded', function () {
+                var toastElList = [].slice.call(document.querySelectorAll('.toast'))
+                var toastList = toastElList.map(function (toastEl) {
+                    return new bootstrap.Toast(toastEl, { delay: 5000 });
+                });
+                toastList.forEach(toast => toast.show());
+            });
+        </script>
+    }
+</body>
+</html>

@@ -1,0 +1,175 @@
+﻿@model TheFashionCanvas.ViewModels.CheckoutViewModel
+
+@{
+    ViewData["Title"] = "Checkout";
+    decimal merchandiseTotal = Model.CartItems.Sum(ci => ci.Quantity * ci.UnitPrice);
+    decimal tax = Model.Tax;
+    decimal shippingFee = Model.ShippingFee;
+    decimal totalAmount = Model.TotalAmount;
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="~/css/Checkout.css" />
+</head>
+<body>
+    <div class="container mt-4">
+        <h2 class="mb-4 text-center text-primary">@ViewData["Title"]</h2>
+
+        <div class="row">
+            <div class="col-md-8">
+                <div class="card shadow-sm border-0 mb-4">
+                    <div class="card-body">
+                        <h4 class="card-title text-primary"><i class="bi bi-truck"></i> Shipping Information</h4>
+                        <form asp-action="Checkout" method="post" class="needs-validation" novalidate>
+                            <div class="row">
+                                <div class="col-md-6 mb-3">
+                                    <label asp-for="FirstName" class="form-label"></label>
+                                    <input asp-for="FirstName" class="form-control" required />
+                                    <div class="invalid-feedback">
+                                        Please enter your first name.
+                                    </div>
+                                </div>
+                                <div class="col-md-6 mb-3">
+                                    <label asp-for="LastName" class="form-label"></label>
+                                    <input asp-for="LastName" class="form-control" required />
+                                    <div class="invalid-feedback">
+                                        Please enter your last name.
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="mb-3">
+                                <label asp-for="StreetAddress" class="form-label"></label>
+                                <input asp-for="StreetAddress" class="form-control" required />
+                                <div class="invalid-feedback">
+                                    Please enter your street address.
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-6 mb-3">
+                                    <label asp-for="Apartment" class="form-label"></label>
+                                    <input asp-for="Apartment" class="form-control" />
+                                </div>
+                                <div class="col-md-6 mb-3">
+                                    <label asp-for="PostalCode" class="form-label"></label>
+                                    <input asp-for="PostalCode" class="form-control" required />
+                                    <div class="invalid-feedback">
+                                        Please enter your postal code.
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-6 mb-3">
+                                    <label asp-for="City" class="form-label"></label>
+                                    <input asp-for="City" class="form-control" required />
+                                    <div class="invalid-feedback">
+                                        Please enter your city.
+                                    </div>
+                                </div>
+                                <div class="col-md-6 mb-3">
+                                    <label asp-for="Province" class="form-label"></label>
+                                    <input asp-for="Province" class="form-control" required />
+                                    <div class="invalid-feedback">
+                                        Please enter your province.
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="mb-3">
+                                <label asp-for="PhoneNumber" class="form-label"></label>
+                                <input asp-for="PhoneNumber" class="form-control" required />
+                                <div class="invalid-feedback">
+                                    Please enter your phone number.
+                                </div>
+                            </div>
+                            <div class="form-check mb-3">
+                                <input asp-for="UseAsBillingAddress" class="form-check-input" type="checkbox" />
+                                <label asp-for="UseAsBillingAddress" class="form-check-label"></label>
+                            </div>
+                            <button type="submit" class="btn btn-primary btn-lg btn-block"><i class="bi bi-send-fill"></i> Submit Order</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="card shadow-sm border-0 mb-4">
+                    <div class="card-body">
+                        <h4 class="card-title text-primary"><i class="bi bi-receipt"></i> Order Summary</h4>
+                        <ul class="list-group mb-3">
+                            <li class="list-group-item d-flex justify-content-between lh-sm">
+                                <div>
+                                    <h6 class="my-0">Merchandise</h6>
+                                </div>
+                                <span class="text-muted">@merchandiseTotal.ToString("C")</span>
+                            </li>
+                            <li class="list-group-item d-flex justify-content-between lh-sm">
+                                <div>
+                                    <h6 class="my-0">Shipping & Handling</h6>
+                                </div>
+                                <span class="text-muted">@shippingFee.ToString("C")</span>
+                            </li>
+                            <li class="list-group-item d-flex justify-content-between lh-sm">
+                                <div>
+                                    <h6 class="my-0">Tax (13%)</h6>
+                                </div>
+                                <span class="text-muted">@tax.ToString("C")</span>
+                            </li>
+                            <li class="list-group-item d-flex justify-content-between">
+                                <strong>Total</strong>
+                                <strong>@totalAmount.ToString("C")</strong>
+                            </li>
+                        </ul>
+                        <a asp-action="Index" asp-controller="Cart" class="btn btn-secondary btn-block"><i class="bi bi-cart-fill"></i> Back to Cart</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    @if (TempData["SuccessMessage"] != null)
+    {
+        <div class="toast-container position-fixed bottom-0 end-0 p-3">
+            <div class="toast show bg-success text-white" role="alert" aria-live="assertive" aria-atomic="true">
+                <div class="d-flex">
+                    <div class="toast-body">
+                        <i class="bi bi-check-circle-fill me-2"></i>@TempData["SuccessMessage"]
+                    </div>
+                    <button type="button" class="btn-close btn-close-white me-2 m-auto" data-bs-dismiss="toast" aria-label="Close"></button>
+                </div>
+            </div>
+        </div>
+    }
+
+    @section Scripts {
+        <partial name="_ValidationScriptsPartial" />
+        <script>
+            // Example starter JavaScript for disabling form submissions if there are invalid fields
+            (function () {
+                'use strict';
+                window.addEventListener('load', function () {
+                    // Fetch all the forms we want to apply custom Bootstrap validation styles to
+                    var forms = document.getElementsByClassName('needs-validation');
+                    // Loop over them and prevent submission
+                    var validation = Array.prototype.filter.call(forms, function (form) {
+                        form.addEventListener('submit', function (event) {
+                            if (form.checkValidity() === false) {
+                                event.preventDefault();
+                                event.stopPropagation();
+                            }
+                            form.classList.add('was-validated');
+                        }, false);
+                    });
+                }, false);
+            })();
+
+            $(document).ready(function () {
+                var toastElList = [].slice.call(document.querySelectorAll('.toast'))
+                var toastList = toastElList.map(function (toastEl) {
+                    return new bootstrap.Toast(toastEl, { autohide: true, delay: 3000 })
+                })
+                toastList.forEach(toast => toast.show())
+            });
+        </script>
+    }
+</body>
+</html>

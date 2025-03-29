@@ -1,0 +1,81 @@
+﻿@model IEnumerable<TheFashionCanvas.Models.Product>
+
+@{
+    ViewData["Title"] = "Products";
+}
+
+@if (TempData["SuccessMessage"] != null)
+{
+    <div class="toast-container position-fixed top-0 end-0 p-3" id="toastContainer">
+        <div class="toast align-items-center text-white bg-success border-0" role="alert" aria-live="assertive" aria-atomic="true">
+            <div class="d-flex">
+                <div class="toast-body">
+                    @TempData["SuccessMessage"]
+                </div>
+                <button type="button" class="btn-close btn-close-white me-2 m-auto" data-bs-dismiss="toast" aria-label="Close"></button>
+            </div>
+        </div>
+    </div>
+}
+
+<div class="container mt-4">
+    <h2 class="mb-4 text-center text-primary"><i class="bi bi-box-seam"></i> @ViewData["Title"]</h2>
+    <div class="d-flex justify-content-end mb-3">
+        <a asp-area="Admin" asp-controller="Product" asp-action="Create" class="btn btn-primary">
+            <i class="bi bi-plus-circle"></i> Create New
+        </a>
+    </div>
+    <table class="table table-hover">
+        <thead>
+            <tr>
+                <th class="col-2">@Html.DisplayNameFor(model => model.Name)</th>
+                <th class="col-2">@Html.DisplayNameFor(model => model.Description)</th>
+                <th class="col-2">@Html.DisplayNameFor(model => model.Category.Name)</th>
+                <th class="col-1">@Html.DisplayNameFor(model => model.Stock)</th>
+                <th class="col-1">@Html.DisplayNameFor(model => model.Price)</th>
+                <th class="col-2">@Html.DisplayNameFor(model => model.ImagePath)</th>
+                <th class="col-2 text-end">Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td class="col-2">@Html.DisplayFor(modelItem => item.Name)</td>
+                    <td class="col-2">@Html.DisplayFor(modelItem => item.Description)</td>
+                    <td class="col-2">@Html.DisplayFor(modelItem => item.Category.Name)</td>
+                    <td class="col-1">@Html.DisplayFor(modelItem => item.Stock)</td>
+                    <td class="col-1">@Html.DisplayFor(modelItem => item.Price)</td>
+                    <td class="col-2">
+                        @if (!string.IsNullOrEmpty(item.ImagePath))
+                        {
+                            <img src="~/images/@item.ImagePath" alt="@item.Name" class="img-thumbnail" style="width: 80px; max-height: 80px;" />
+                        }
+                    </td>
+                    <td class="col-2 text-end">
+                        <div class="d-flex align-items-center">
+                            <a asp-area="Admin" asp-controller="Product" asp-action="Edit" asp-route-id="@item.ProductId" class="btn btn-primary btn-sm me-2" style="display: flex; align-items: center;">
+                                <i class="bi bi-pencil" style="margin-right: 5px;"></i> Edit
+                            </a>
+                            <a asp-area="Admin" asp-controller="Product" asp-action="Delete" asp-route-id="@item.ProductId" class="btn btn-danger btn-sm" style="display: flex; align-items: center;">
+                                <i class="bi bi-trash" style="margin-right: 5px;"></i> Delete
+                            </a>
+                        </div>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+@section Scripts {
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            var toastElList = [].slice.call(document.querySelectorAll('.toast'))
+            var toastList = toastElList.map(function (toastEl) {
+                return new bootstrap.Toast(toastEl, { delay: 5000 });
+            });
+            toastList.forEach(toast => toast.show());
+        });
+    </script>
+}

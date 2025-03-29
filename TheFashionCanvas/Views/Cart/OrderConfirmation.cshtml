@@ -1,0 +1,127 @@
+﻿@model TheFashionCanvas.Models.Order
+
+@{
+    ViewData["Title"] = "Order Confirmation";
+    decimal merchandiseTotal = Model.OrderItems.Sum(item => item.Quantity * item.UnitPrice);
+    decimal tax = merchandiseTotal * 0.13m;
+    decimal shippingFee;
+
+    if (merchandiseTotal < 100)
+    {
+        shippingFee = 50;
+    }
+    else if (merchandiseTotal >= 100 && merchandiseTotal <= 500)
+    {
+        shippingFee = 20;
+    }
+    else
+    {
+        shippingFee = 0;
+    }
+
+    decimal totalAmount = merchandiseTotal + tax + shippingFee;
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="~/css/Confirm.css" />
+</head>
+<body>
+    <div class="container mt-5">
+        @if (TempData["SuccessMessage"] != null)
+        {
+            <div class="toast-container position-fixed top-0 end-0 p-3" id="toastContainer">
+                <div class="toast align-items-center text-white bg-success border-0" role="alert" aria-live="assertive" aria-atomic="true">
+                    <div class="d-flex">
+                        <div class="toast-body">
+                            <i class="bi bi-check-circle-fill me-2"></i>@TempData["SuccessMessage"] Your order number is: @Model.OrderId
+                        </div>
+                        <button type="button" class="btn-close btn-close-white me-2 m-auto" data-bs-dismiss="toast" aria-label="Close"></button>
+                    </div>
+                </div>
+            </div>
+        }
+
+        <div class="card shadow-sm border-0 mb-4">
+            <div class="card-body">
+                <h2 class="card-title text-primary"><i class="bi bi-clipboard-check"></i> Order Confirmation</h2>
+                <p class="lead">Thank you for your order!</p>
+                <p><strong>Order Number:</strong> @Model.OrderId</p>
+                <p><strong>Order Date:</strong> @Model.OrderDate.ToShortDateString()</p>
+                <p><strong>Shipping Address:</strong> @Model.ShippingAddress</p>
+            </div>
+        </div>
+
+        <div class="card shadow-sm border-0">
+            <div class="card-body">
+                <h3 class="card-title text-primary"><i class="bi bi-receipt"></i> Order Summary</h3>
+                <table class="table table-hover">
+                    <thead>
+                        <tr>
+                            <th>Product</th>
+                            <th>Quantity</th>
+                            <th>Unit Price</th>
+                            <th>Total Price</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @if (Model.OrderItems != null && Model.OrderItems.Any())
+                        {
+                            @foreach (var item in Model.OrderItems)
+                            {
+                                <tr>
+                                    <td>@item.Product.Name</td>
+                                    <td>@item.Quantity</td>
+                                    <td>@item.UnitPrice.ToString("C")</td>
+                                    <td>@((item.Quantity * item.UnitPrice).ToString("C"))</td>
+                                </tr>
+                            }
+                        }
+                        else
+                        {
+                            <tr>
+                                <td colspan="4">No items in the order.</td>
+                            </tr>
+                        }
+                    </tbody>
+                    <tfoot>
+                        <tr>
+                            <td colspan="3" class="text-end"><strong>Merchandise Total:</strong></td>
+                            <td>@merchandiseTotal.ToString("C")</td>
+                        </tr>
+                        <tr>
+                            <td colspan="3" class="text-end"><strong>Shipping & Handling:</strong></td>
+                            <td>@shippingFee.ToString("C")</td>
+                        </tr>
+                        <tr>
+                            <td colspan="3" class="text-end"><strong>Tax (13%):</strong></td>
+                            <td>@tax.ToString("C")</td>
+                        </tr>
+                        <tr>
+                            <td colspan="3" class="text-end"><strong>Total Amount:</strong></td>
+                            <td><strong>@totalAmount.ToString("C")</strong></td>
+                        </tr>
+                    </tfoot>
+                </table>
+                <div class="d-flex justify-content-between mt-4">
+                    <a asp-action="Index" asp-controller="Product" class="btn btn-primary"><i class="bi bi-box-arrow-in-left"></i> Back to Products</a>
+                    <a asp-action="Details" asp-controller="Order" asp-route-id="@Model.OrderId" class="btn btn-secondary"><i class="bi bi-truck"></i> Track Order</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    @section Scripts {
+        <script>
+            document.addEventListener('DOMContentLoaded', function () {
+                var toastElList = [].slice.call(document.querySelectorAll('.toast'))
+                var toastList = toastElList.map(function (toastEl) {
+                    return new bootstrap.Toast(toastEl, { delay: 5000 });
+                });
+                toastList.forEach(toast => toast.show());
+            });
+        </script>
+    }
+</body>
+</html>

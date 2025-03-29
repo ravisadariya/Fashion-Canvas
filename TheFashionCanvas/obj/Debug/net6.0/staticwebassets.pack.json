@@ -1,0 +1,349 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\Resume\\FIELD RESUME\\Projects\\TheFashionCanvas\\TheFashionCanvas\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\TheFashionCanvas.bundle.scp.css",
+      "PackagePath": "staticwebassets\\TheFashionCanvas.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\Resume\\FIELD RESUME\\Projects\\TheFashionCanvas\\TheFashionCanvas\\wwwroot\\css\\Cart.css",
+      "PackagePath": "staticwebassets\\css\\Cart.css"
+    },
+    {
+      "Id": "E:\\Resume\\FIELD RESUME\\Projects\\TheFashionCanvas\\TheFashionCanvas\\wwwroot\\css\\Checkout.css",
+      "PackagePath": "staticwebassets\\css\\Checkout.css"
+    },
+    {
+      "Id": "E:\\Resume\\FIELD RESUME\\Projects\\TheFashionCanvas\\TheFashionCanvas\\wwwroot\\css\\Confirm.css",
+      "PackagePath": "staticwebassets\\css\\Confirm.css"
+    },
+    {
+      "Id": "E:\\Resume\\FIELD RESUME\\Projects\\TheFashionCanvas\\TheFashionCanvas\\wwwroot\\css\\History.css",
+      "PackagePath": "staticwebassets\\css\\History.css"
+    },
+    {
+      "Id": "E:\\Resume\\FIELD RESUME\\Projects\\TheFashionCanvas\\TheFashionCanvas\\wwwroot\\css\\Login.css",
+      "PackagePath": "staticwebassets\\css\\Login.css"
+    },
+    {
+      "Id": "E:\\Resume\\FIELD RESUME\\Projects\\TheFashionCanvas\\TheFashionCanvas\\wwwroot\\css\\OrderDetails.css",
+      "PackagePath": "staticwebassets\\css\\OrderDetails.css"
+    },
+    {
+      "Id": "E:\\Resume\\FIELD RESUME\\Projects\\TheFashionCanvas\\TheFashionCanvas\\wwwroot\\css\\ProductDetails.css",
+      "PackagePath": "staticwebassets\\css\\ProductDetails.css"
+    },
+    {
+      "Id": "E:\\Resume\\FIELD RESUME\\Projects\\TheFashionCanvas\\TheFashionCanvas\\wwwroot\\css\\Register.css",
+      "PackagePath": "staticwebassets\\css\\Register.css"
+    },
+    {
+      "Id": "E:\\Resume\\FIELD RESUME\\Projects\\TheFashionCanvas\\TheFashionCanvas\\wwwroot\\css\\products - Copy.css",
+      "PackagePath": "staticwebassets\\css\\products - Copy.css"
+    },
+    {
+      "Id": "E:\\Resume\\FIELD RESUME\\Projects\\TheFashionCanvas\\TheFashionCanvas\\wwwroot\\css\\products.css",
+      "PackagePath": "staticwebassets\\css\\products.css"
+    },
+    {
+      "Id": "E:\\Resume\\FIELD RESUME\\Projects\\TheFashionCanvas\\TheFashionCanvas\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\Resume\\FIELD RESUME\\Projects\\TheFashionCanvas\\TheFashionCanvas\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\Resume\\FIELD RESUME\\Projects\\TheFashionCanvas\\TheFashionCanvas\\wwwroot\\images\\1-removebg-preview.png",
+      "PackagePath": "staticwebassets\\images\\1-removebg-preview.png"
+    },
+    {
+      "Id": "E:\\Resume\\FIELD RESUME\\Projects\\TheFashionCanvas\\TheFashionCanvas\\wwwroot\\images\\2449bd1b-be5d-4eca-8464-9d7aabec82db_mens_T-Shirt.jpg",
+      "PackagePath": "staticwebassets\\images\\2449bd1b-be5d-4eca-8464-9d7aabec82db_mens_T-Shirt.jpg"
+    },
+    {
+      "Id": "E:\\Resume\\FIELD RESUME\\Projects\\TheFashionCanvas\\TheFashionCanvas\\wwwroot\\images\\mens_T-Shirt.jpg",
+      "PackagePath": "staticwebassets\\images\\mens_T-Shirt.jpg"
+    },
+    {
+      "Id": "E:\\Resume\\FIELD RESUME\\Projects\\TheFashionCanvas\\TheFashionCanvas\\wwwroot\\images\\mens_jacket.jpg",
+      "PackagePath": "staticwebassets\\images\\mens_jacket.jpg"
+    },
+    {
+      "Id": "E:\\Resume\\FIELD RESUME\\Projects\\TheFashionCanvas\\TheFashionCanvas\\wwwroot\\images\\mens_jeans.jpg",
+      "PackagePath": "staticwebassets\\images\\mens_jeans.jpg"
+    },
+    {
+      "Id": "E:\\Resume\\FIELD RESUME\\Projects\\TheFashionCanvas\\TheFashionCanvas\\wwwroot\\images\\mens_watch.jpg",
+      "PackagePath": "staticwebassets\\images\\mens_watch.jpg"
+    },
+    {
+      "Id": "E:\\Resume\\FIELD RESUME\\Projects\\TheFashionCanvas\\TheFashionCanvas\\wwwroot\\images\\running_shoes.jpg",
+      "PackagePath": "staticwebassets\\images\\running_shoes.jpg"
+    },
+    {
+      "Id": "E:\\Resume\\FIELD RESUME\\Projects\\TheFashionCanvas\\TheFashionCanvas\\wwwroot\\images\\sunglasses.jpg",
+      "PackagePath": "staticwebassets\\images\\sunglasses.jpg"
+    },
+    {
+      "Id": "E:\\Resume\\FIELD RESUME\\Projects\\TheFashionCanvas\\TheFashionCanvas\\wwwroot\\images\\womens_handbag.jpg",
+      "PackagePath": "staticwebassets\\images\\womens_handbag.jpg"
+    },
+    {
+      "Id": "E:\\Resume\\FIELD RESUME\\Projects\\TheFashionCanvas\\TheFashionCanvas\\wwwroot\\images\\womens_sandals.jpg",
+      "PackagePath": "staticwebassets\\images\\womens_sandals.jpg"
+    },
+    {
+      "Id": "E:\\Resume\\FIELD RESUME\\Projects\\TheFashionCanvas\\TheFashionCanvas\\wwwroot\\images\\womens_scarf.jpg",
+      "PackagePath": "staticwebassets\\images\\womens_scarf.jpg"
+    },
+    {
+      "Id": "E:\\Resume\\FIELD RESUME\\Projects\\TheFashionCanvas\\TheFashionCanvas\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\Resume\\FIELD RESUME\\Projects\\TheFashionCanvas\\TheFashionCanvas\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\Resume\\FIELD RESUME\\Projects\\TheFashionCanvas\\TheFashionCanvas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\Resume\\FIELD RESUME\\Projects\\TheFashionCanvas\\TheFashionCanvas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\Resume\\FIELD RESUME\\Projects\\TheFashionCanvas\\TheFashionCanvas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\Resume\\FIELD RESUME\\Projects\\TheFashionCanvas\\TheFashionCanvas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\Resume\\FIELD RESUME\\Projects\\TheFashionCanvas\\TheFashionCanvas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\Resume\\FIELD RESUME\\Projects\\TheFashionCanvas\\TheFashionCanvas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Resume\\FIELD RESUME\\Projects\\TheFashionCanvas\\TheFashionCanvas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Resume\\FIELD RESUME\\Projects\\TheFashionCanvas\\TheFashionCanvas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Resume\\FIELD RESUME\\Projects\\TheFashionCanvas\\TheFashionCanvas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\Resume\\FIELD RESUME\\Projects\\TheFashionCanvas\\TheFashionCanvas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\Resume\\FIELD RESUME\\Projects\\TheFashionCanvas\\TheFashionCanvas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\Resume\\FIELD RESUME\\Projects\\TheFashionCanvas\\TheFashionCanvas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\Resume\\FIELD RESUME\\Projects\\TheFashionCanvas\\TheFashionCanvas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\Resume\\FIELD RESUME\\Projects\\TheFashionCanvas\\TheFashionCanvas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Resume\\FIELD RESUME\\Projects\\TheFashionCanvas\\TheFashionCanvas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Resume\\FIELD RESUME\\Projects\\TheFashionCanvas\\TheFashionCanvas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Resume\\FIELD RESUME\\Projects\\TheFashionCanvas\\TheFashionCanvas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\Resume\\FIELD RESUME\\Projects\\TheFashionCanvas\\TheFashionCanvas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\Resume\\FIELD RESUME\\Projects\\TheFashionCanvas\\TheFashionCanvas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\Resume\\FIELD RESUME\\Projects\\TheFashionCanvas\\TheFashionCanvas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\Resume\\FIELD RESUME\\Projects\\TheFashionCanvas\\TheFashionCanvas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\Resume\\FIELD RESUME\\Projects\\TheFashionCanvas\\TheFashionCanvas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Resume\\FIELD RESUME\\Projects\\TheFashionCanvas\\TheFashionCanvas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Resume\\FIELD RESUME\\Projects\\TheFashionCanvas\\TheFashionCanvas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Resume\\FIELD RESUME\\Projects\\TheFashionCanvas\\TheFashionCanvas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\Resume\\FIELD RESUME\\Projects\\TheFashionCanvas\\TheFashionCanvas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\Resume\\FIELD RESUME\\Projects\\TheFashionCanvas\\TheFashionCanvas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\Resume\\FIELD RESUME\\Projects\\TheFashionCanvas\\TheFashionCanvas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\Resume\\FIELD RESUME\\Projects\\TheFashionCanvas\\TheFashionCanvas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\Resume\\FIELD RESUME\\Projects\\TheFashionCanvas\\TheFashionCanvas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Resume\\FIELD RESUME\\Projects\\TheFashionCanvas\\TheFashionCanvas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Resume\\FIELD RESUME\\Projects\\TheFashionCanvas\\TheFashionCanvas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Resume\\FIELD RESUME\\Projects\\TheFashionCanvas\\TheFashionCanvas\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\Resume\\FIELD RESUME\\Projects\\TheFashionCanvas\\TheFashionCanvas\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\Resume\\FIELD RESUME\\Projects\\TheFashionCanvas\\TheFashionCanvas\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\Resume\\FIELD RESUME\\Projects\\TheFashionCanvas\\TheFashionCanvas\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\Resume\\FIELD RESUME\\Projects\\TheFashionCanvas\\TheFashionCanvas\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\Resume\\FIELD RESUME\\Projects\\TheFashionCanvas\\TheFashionCanvas\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\Resume\\FIELD RESUME\\Projects\\TheFashionCanvas\\TheFashionCanvas\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\Resume\\FIELD RESUME\\Projects\\TheFashionCanvas\\TheFashionCanvas\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\Resume\\FIELD RESUME\\Projects\\TheFashionCanvas\\TheFashionCanvas\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\Resume\\FIELD RESUME\\Projects\\TheFashionCanvas\\TheFashionCanvas\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\Resume\\FIELD RESUME\\Projects\\TheFashionCanvas\\TheFashionCanvas\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\Resume\\FIELD RESUME\\Projects\\TheFashionCanvas\\TheFashionCanvas\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\Resume\\FIELD RESUME\\Projects\\TheFashionCanvas\\TheFashionCanvas\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\Resume\\FIELD RESUME\\Projects\\TheFashionCanvas\\TheFashionCanvas\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\Resume\\FIELD RESUME\\Projects\\TheFashionCanvas\\TheFashionCanvas\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\Resume\\FIELD RESUME\\Projects\\TheFashionCanvas\\TheFashionCanvas\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\Resume\\FIELD RESUME\\Projects\\TheFashionCanvas\\TheFashionCanvas\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\Resume\\FIELD RESUME\\Projects\\TheFashionCanvas\\TheFashionCanvas\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\Resume\\FIELD RESUME\\Projects\\TheFashionCanvas\\TheFashionCanvas\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\Resume\\FIELD RESUME\\Projects\\TheFashionCanvas\\TheFashionCanvas\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\Resume\\FIELD RESUME\\Projects\\TheFashionCanvas\\TheFashionCanvas\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\Resume\\FIELD RESUME\\Projects\\TheFashionCanvas\\TheFashionCanvas\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\Resume\\FIELD RESUME\\Projects\\TheFashionCanvas\\TheFashionCanvas\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\Resume\\FIELD RESUME\\Projects\\TheFashionCanvas\\TheFashionCanvas\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.TheFashionCanvas.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.TheFashionCanvas.props",
+      "PackagePath": "build\\TheFashionCanvas.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.TheFashionCanvas.props",
+      "PackagePath": "buildMultiTargeting\\TheFashionCanvas.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.TheFashionCanvas.props",
+      "PackagePath": "buildTransitive\\TheFashionCanvas.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

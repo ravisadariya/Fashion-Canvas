@@ -1,0 +1,48 @@
+﻿@model IEnumerable<TheFashionCanvas.Models.Order>
+
+@{
+    ViewData["Title"] = "Order History";
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="~/css/History.css" />
+</head>
+<body>
+    <div class="container mt-5">
+        <h2 class="mb-4 text-center text-primary"><i class="bi bi-archive"></i> @ViewData["Title"]</h2>
+
+        @if (!Model.Any())
+        {
+            <div class="alert alert-info" role="alert">
+                <i class="bi bi-info-circle-fill"></i> You have no orders yet.
+            </div>
+        }
+        else
+        {
+            <div class="row">
+                @foreach (var order in Model)
+                {
+                    <div class="col-md-4 mb-4">
+                        <div class="card shadow-sm border-0 @(
+                        order.Status == OrderStatus.Pending ? "border-warning" :
+                        order.Status == OrderStatus.OutForDelivery ? "border-info" :
+                        order.Status == OrderStatus.Delivered ? "border-success" :
+                        ""
+                    )">
+                            <div class="card-body">
+                                <h5 class="card-title"><i class="bi bi-receipt"></i> Order #@order.OrderId</h5>
+                                <p class="card-text"><strong><i class="bi bi-calendar"></i> Order Date:</strong> @order.OrderDate.ToString("d")</p>
+                                <p class="card-text"><strong><i class="bi bi-hourglass-split"></i> Status:</strong> @order.Status.ToString()</p>
+                                <p class="card-text"><strong><i class="bi bi-currency-dollar"></i> Total:</strong> @order.OrderItems.Sum(oi => oi.Quantity * oi.UnitPrice).ToString("C")</p>
+                                <a asp-action="Details" asp-controller="Order" asp-route-id="@order.OrderId" class="btn btn-primary"><i class="bi bi-eye"></i> View Details</a>
+                            </div>
+                        </div>
+                    </div>
+                }
+            </div>
+        }
+    </div>
+</body>
+</html>

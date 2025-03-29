@@ -1,0 +1,128 @@
+﻿@model TheFashionCanvas.ViewModels.RegisterViewModel
+
+@{
+    ViewData["Title"] = "Register";
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="~/css/Register.css" />
+</head>
+<body>
+    <div class="container sa mt-5">
+        <h2 class="mb-4 text-center text-primary"><i class="bi bi-person-plus-fill"></i> Register</h2>
+
+        <form asp-action="Register" method="post">
+            <div class="row">
+                <div class="col-md-6 mb-3">
+                    <label asp-for="FirstName" class="form-label"></label>
+                    <div class="input-group">
+                        <span class="input-group-text bg-light"><i class="bi bi-person"></i></span>
+                        <input asp-for="FirstName" class="form-control" />
+                    </div>
+                    <span asp-validation-for="FirstName" class="text-danger"></span>
+                </div>
+                <div class="col-md-6 mb-3">
+                    <label asp-for="LastName" class="form-label"></label>
+                    <div class="input-group">
+                        <span class="input-group-text bg-light"><i class="bi bi-person"></i></span>
+                        <input asp-for="LastName" class="form-control" />
+                    </div>
+                    <span asp-validation-for="LastName" class="text-danger"></span>
+                </div>
+            </div>
+            <div class="mb-3">
+                <label asp-for="Email" class="form-label"></label>
+                <div class="input-group">
+                    <span class="input-group-text bg-light"><i class="bi bi-envelope"></i></span>
+                    <input asp-for="Email" type="email" class="form-control" />
+                </div>
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+            <div class="mb-3">
+                <label asp-for="Username" class="form-label"></label>
+                <div class="input-group">
+                    <span class="input-group-text bg-light"><i class="bi bi-person-circle"></i></span>
+                    <input asp-for="Username" class="form-control" />
+                </div>
+                <span asp-validation-for="Username" class="text-danger"></span>
+            </div>
+            <div class="row">
+                <div class="col-md-6 mb-3">
+                    <label asp-for="Password" class="form-label"></label>
+                    <div class="input-group">
+                        <span class="input-group-text bg-light"><i class="bi bi-lock"></i></span>
+                        <input asp-for="Password" type="password" class="form-control" />
+                    </div>
+                    <span asp-validation-for="Password" class="text-danger"></span>
+                </div>
+                <div class="col-md-6 mb-3">
+                    <label asp-for="ConfirmPassword" class="form-label"></label>
+                    <div class="input-group">
+                        <span class="input-group-text bg-light"><i class="bi bi-lock-fill"></i></span>
+                        <input asp-for="ConfirmPassword" type="password" class="form-control" />
+                    </div>
+                    <span asp-validation-for="ConfirmPassword" class="text-danger"></span>
+                </div>
+            </div>
+            <div class="mb-3">
+                <label asp-for="StreetAddress" class="form-label"></label>
+                <div class="input-group">
+                    <span class="input-group-text bg-light"><i class="bi bi-geo-alt"></i></span>
+                    <input asp-for="StreetAddress" class="form-control" />
+                </div>
+                <span asp-validation-for="StreetAddress" class="text-danger"></span>
+            </div>
+            <div class="mb-3">
+                <label asp-for="Apartment" class="form-label"></label>
+                <div class="input-group">
+                    <span class="input-group-text bg-light"><i class="bi bi-building"></i></span>
+                    <input asp-for="Apartment" class="form-control" />
+                </div>
+                <span asp-validation-for="Apartment" class="text-danger"></span>
+            </div>
+            <div class="row">
+                <div class="col-md-6 mb-3">
+                    <label asp-for="PostalCode" class="form-label"></label>
+                    <div class="input-group">
+                        <span class="input-group-text bg-light"><i class="bi bi-envelope-open"></i></span>
+                        <input asp-for="PostalCode" class="form-control" />
+                    </div>
+                    <span asp-validation-for="PostalCode" class="text-danger"></span>
+                </div>
+                <div class="col-md-6 mb-3">
+                    <label asp-for="City" class="form-label"></label>
+                    <div class="input-group">
+                        <span class="input-group-text bg-light"><i class="bi bi-building"></i></span>
+                        <input asp-for="City" class="form-control" />
+                    </div>
+                    <span asp-validation-for="City" class="text-danger"></span>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-6 mb-3">
+                    <label asp-for="Province" class="form-label"></label>
+                    <div class="input-group">
+                        <span class="input-group-text bg-light"><i class="bi bi-map"></i></span>
+                        <input asp-for="Province" class="form-control" />
+                    </div>
+                    <span asp-validation-for="Province" class="text-danger"></span>
+                </div>
+                <div class="col-md-6 mb-3">
+                    <label asp-for="PhoneNumber" class="form-label"></label>
+                    <div class="input-group">
+                        <span class="input-group-text bg-light"><i class="bi bi-telephone"></i></span>
+                        <input asp-for="PhoneNumber" class="form-control" />
+                    </div>
+                    <span asp-validation-for="PhoneNumber" class="text-danger"></span>
+                </div>
+            </div>
+            <button type="submit" class="btn btn-primary btn-lg btn-block"><i class="bi bi-box-arrow-in-right"></i> Register</button>
+        </form>
+    </div>
+
+    @section Scripts {
+        <partial name="_ValidationScriptsPartial" />
+    }
+</body>
+</html>
